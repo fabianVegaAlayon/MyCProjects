@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1523764442 source:f:\desarrollo\c programs\projects\leerestructura\main.c
+	<stdio.h>
+	<string.h>
+	"alumnos.h"
+
+1523763667 f:\desarrollo\c programs\projects\leerestructura\alumnos.h
+	<stdio.h>
+
+1547337336 source:f:\desarrollo\c programs\programs\escribirint.c
+	<stdio.h>
+

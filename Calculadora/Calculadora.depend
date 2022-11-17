@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1529884607 source:f:\desarrollo\c programs\projects\calculadora\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"metodos.h"
+
+1529556256 f:\desarrollo\c programs\projects\calculadora\metodos.h
+
+1529884862 source:f:\desarrollo\c programs\projects\calculadora\metodos.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+

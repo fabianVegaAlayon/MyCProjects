@@ -1,0 +1,45 @@
+https://www.talleresoracle.com/programacion
+https://www.youtube.com/channel/UC8QpS01oXs3ZBlFcfLw7Ywg
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+flashback oracle
+
+las tablas a restaurar no deben pertenecer a sys ni a system 
+
+en la papelera de reciclaje se almacenan solo las tablas del usuario conectado a la sesion
+
+
+Es configurable el tiempo de retencion de informacion 
+por defecto la retiene por 15 minutos
+
+configurar tiempo de retencion
+
+
+select * from v$parameter where name like'%undo%';
+
+undo_retention por defecto 15 minutos --> 900seg
+--configuracion 
+**********************************************
+alter system set undo_retention = 1956000 scope = both; --15 dias
+**********************************************
+por buenas practicas un mes
+
+flashback version query perite solo ver 
+
+scn numero de secuencia  identifica cada opeacion en base de datos 
+
+hace un corte en el tiempo select current_scn from v$database;  
+
+===================================================
+flashback table  permite restauratr una tabla en el tiempo sin importar que se haya hecho commit rebobinar 
+
+enable row movement 
+
+
+
+
+
+
+
+
+

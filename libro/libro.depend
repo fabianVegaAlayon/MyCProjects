@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1526118442 source:f:\desarrollo\c programs\projects\libro\main.c
+	<stdio.h>
+	"emp.h"
+
+1526118568 f:\desarrollo\c programs\projects\libro\emp.h
+
+1526117456 source:f:\desarrollo\c programs\projects\libro\emp.c
+	<stdio.h>
+	"emp.h"
+

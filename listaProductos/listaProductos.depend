@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1548642910 source:f:\desarrollo\c programs\projects\listaproductos\funciones.c
+	<stdio.h>
+	<string.h>
+	"encabezado.h"
+
+1548642900 f:\desarrollo\c programs\projects\listaproductos\encabezado.h
+
+1548816284 source:f:\desarrollo\c programs\projects\listaproductos\main.c
+	<stdio.h>
+	<stdlib.h>
+	"encabezado.h"
+

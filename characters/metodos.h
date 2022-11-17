@@ -1,0 +1,1 @@
+char* recorrer (char palabra[]);

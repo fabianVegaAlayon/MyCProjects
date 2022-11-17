@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1549246541 source:f:\desarrollo\c programs\projects\aggelemtolista\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Cabecera.h"
+
+1549245979 f:\desarrollo\c programs\projects\aggelemtolista\cabecera.h
+	<stdio.h>
+

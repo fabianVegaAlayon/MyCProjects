@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1547420791 source:f:\desarrollo\c programs\projects\ingresoempleado\main.c
+	<stdio.h>
+	<string.h>
+	"estructura.h"
+
+1528026691 f:\desarrollo\c programs\projects\ingresoempleado\estructura.h
+

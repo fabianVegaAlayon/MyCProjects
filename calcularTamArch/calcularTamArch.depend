@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1523755713 source:f:\desarrollo\c programs\projects\calculartamarch\main.c
+	<stdio.h>
+	<stdlib.h>
+

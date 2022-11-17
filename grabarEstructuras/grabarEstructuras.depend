@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1523766976 source:f:\desarrollo\c programs\projects\grabarestructuras\main.c
+	<stdio.h>
+	<string.h>
+	"funciones.h"
+
+1523764800 f:\desarrollo\c programs\projects\grabarestructuras\funciones.h
+

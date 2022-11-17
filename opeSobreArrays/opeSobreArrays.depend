@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1522894430 source:f:\desarrollo\c programs\projects\opesobrearrays\funciones.c
+	<stdio.h>
+
+1522636718 source:f:\desarrollo\c programs\projects\opesobrearrays\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Cabeceras.h"
+
+1522633569 f:\desarrollo\c programs\projects\opesobrearrays\cabeceras.h
+

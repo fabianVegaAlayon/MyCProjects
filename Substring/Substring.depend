@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1520738843 source:f:\desarrollo\c programs\projects\substring\metodos.c
+	<stdlib.h>
+	<string.h>
+
+1520738037 source:f:\desarrollo\c programs\projects\substring\main.c
+	<stdio.h>
+	<stdlib.h>
+	"metodos.h"
+
+1520738490 f:\desarrollo\c programs\projects\substring\metodos.h
+

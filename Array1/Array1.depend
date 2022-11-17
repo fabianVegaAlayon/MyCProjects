@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1521601583 source:f:\desarrollo\c programs\projects\array1\main.c
+	<stdio.h>
+	"metodos.h"
+
+1521601282 f:\desarrollo\c programs\projects\array1\metodos.h
+
+1521601867 source:f:\desarrollo\c programs\projects\array1\metodos.c
+	<stdio.h>
+

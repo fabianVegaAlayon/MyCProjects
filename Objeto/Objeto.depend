@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1562869441 source:f:\desarrollo\c programs\projects\objeto\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"Cadena.h"
+
+1562873168 f:\desarrollo\c programs\projects\objeto\include\cadena.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1562870589 source:f:\desarrollo\c programs\projects\objeto\src\cadena.cpp
+
+1562871045 source:f:\desarrollo\c programs\projects\objeto\src\clase.cpp
+

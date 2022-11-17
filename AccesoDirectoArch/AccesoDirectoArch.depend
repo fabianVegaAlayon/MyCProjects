@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1523836421 source:f:\desarrollo\c programs\projects\accesodirectoarch\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Alumnos.h"
+
+1523834374 f:\desarrollo\c programs\projects\accesodirectoarch\alumnos.h
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1523326493 source:f:\desarrollo\c programs\projects\encapsulamiento\main.c
+	<stdio.h>
+	"Cabeceras.h"
+
+1526682545 f:\desarrollo\c programs\projects\encapsulamiento\cabeceras.h
+

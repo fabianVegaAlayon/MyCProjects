@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1519271259 source:f:\desarrollo\c programs\projects\aniobisiesto\main.c
+	<stdio.h>
+	"funciones.h"
+
+1519269556 f:\desarrollo\c programs\projects\aniobisiesto\funciones.h
+
+1519271293 source:f:\desarrollo\c programs\projects\aniobisiesto\funciones.c
+

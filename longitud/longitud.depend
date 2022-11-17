@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1519787475 source:f:\desarrollo\c programs\projects\longitud\metodo.c
+
+1519788867 source:f:\desarrollo\c programs\projects\longitud\main.c
+	<stdio.h>
+	"metodo.h"
+
+1519787284 f:\desarrollo\c programs\projects\longitud\metodo.h
+

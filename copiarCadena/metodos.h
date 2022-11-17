@@ -1,0 +1,1 @@
+void copiarCadena(char[],char[]);

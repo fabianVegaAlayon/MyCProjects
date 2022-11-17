@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1548030441 source:f:\desarrollo\c programs\projects\indexar\main.c
+	<stdio.h>
+	<stdlib.h>
+	"cabeceras.h"
+
+1548032260 f:\desarrollo\c programs\projects\indexar\cabeceras.h
+
+1548032228 source:f:\desarrollo\c programs\projects\indexar\funciones.c
+	<stdio.h>
+	"cabeceras.h"
+

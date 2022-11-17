@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1523863298 source:f:\desarrollo\c programs\projects\agregarregistroalfinal\main.c
+	<stdio.h>
+	<string.h>
+	"Alumno.h"
+
+1523863271 f:\desarrollo\c programs\projects\agregarregistroalfinal\alumno.h
+

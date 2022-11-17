@@ -1,0 +1,12 @@
+int buscar(int[],int,int);
+int agregar(int[],int*,int);
+int buscarYAgregar(int[],int*, int, int*);
+void inicializarContadores(int[]);
+void mostrarResultados(int[],int,int[]);
+void insertar(int[],int*, int ,int);
+void eliminar(int[],int*,int);
+int insertarEnOrden(int[],int*,int);
+int buscaEnOrden(int[],int,int,int*);
+int buscarEInsertarEnOrden(int[], int*,int,int*);
+void ordenar(int[],int);
+int busquedaBinaria(int[],int,int,int *);
